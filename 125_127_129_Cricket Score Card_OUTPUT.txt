@@ -1,0 +1,128 @@
+Enter the Batsman detail:
+Enter the number of batsman:
+2
+Enter name of batsman1:
+Dhoni
+Enter the number of ones scored by player1:
+ 2
+Enter the number of twos scored by player1:
+ 3
+Enter the number of threes scored by player1:
+ 4
+Enter the number of fours scored by player1:
+ 5
+Enter the number of sixes scored by player1:
+ 2
+Enter the balls played by the player1:
+56  36
+Enter name of batsman2:
+VIRAT    irat
+Enter the number of ones scored by player2:
+ 3
+Enter the number of twos scored by player2:
+ 4
+Enter the number of threes scored by player2:
+ 5
+Enter the number of fours scored by player2:
+ 2
+Enter the number of sixes scored by player2:
+ 6
+Enter the balls played by the player2:
+28
+
+Enter the bowlers details:
+Enter the number of bowlers:
+2
+
+Enter name of bowler1:Ashwin
+Enter the runs given by the bowler1:
+ 65
+Enter the overs bowled by the bowler1:
+3 6
+Enter the wickets taken by the bowler1
+1
+
+Enter name of bowler2:Umesh
+Enter the runs given by the bowler2:
+ 69
+Enter the overs bowled by the bowler2:
+5
+Enter the wickets taken by the bowler2
+1
+Thank you all details are recorded
+Enter the choice:
+ 1)Batsman detail:
+ 2)Bowlers detail:
+ 3)Match summary:
+ 4)Record:
+ 5)Exit
+ 4
+Highest runs scored by the batsman:70
+Maximum fours scored by the batsman:5
+Maximum sixes scored by the batsman6:
+Maximum wickets taken by the bowler:1
+Enter the choice:
+ 1)Batsman detail:
+ 2)Bowlers detail:
+ 3)Match summary:
+ 4)Record:
+ 5)Exit
+ 3
+                     Match summary
+==========================================================================
+ Batsman        runs           balls        fours       sixes         sr   
+==========================================================================
+ Dhoni           52             36            5           2           144.44   
+
+TOTAL RUNS:52
+
+
+
+=================================================================
+ Bowler        overs           runs        wicket       economy
+=================================================================
+ Ashwin          6              65            1           10.00      
+
+
+ Umesh           5              69            1           13.00      
+
+
+Enter the choice:
+ 1)Batsman detail:
+ 2)Bowlers detail:
+ 3)Match summary:
+ 4)Record:
+ 5)Exit
+ 1
+Enter the batsman number to see his details
+2
+                       Player Detail
+===========================================================================
+ Batsman        runs           balls        fours       sixes         sr   
+===========================================================================
+ Virat           70             28            2           6           250.00   
+
+Enter the choice:
+ 1)Batsman detail:
+ 2)Bowlers detail:
+ 3)Match summary:
+ 4)Record:
+ 5)Exit
+ 2
+Enter the bowlers number to see his details
+1
+                         Player Detail
+  =================================================================
+ Bowler        overs           runs        wicket       economy
+=================================================================
+ Ashwin          6              65            1           10.00      
+
+ Ashwin          6              65            1           10.00      
+
+Enter the choice:
+ 1)Batsman detail:
+ 2)Bowlers detail:
+ 3)Match summary:
+ 4)Record:
+ 5)Exit
+ 5
